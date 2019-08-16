@@ -1,0 +1,20 @@
+Машина для развертывания:
+ip: 192.168.111.74
+login: user
+pass: P@ssword12
+
+Запуск заглушки:
+cd MSK_Longenvity_mock/
+python3 mockForMSKLongenvity.py - в обычном режиме
+screen python3 mockForMSKLongenvity.py - в фоновом режиме
+
+screen -ls - просмотр всех запущенных screen
+screen -r <№ процесса из команды выше> - перейти в консоль экрана
+
+
+Для каждого запроса формируется файл с названием:
+{метод запроса}_{адрес запроса, вместо / ставим _}.txt
+Первая строка файла - status code.
+Вторая строка - response body.
+
+Пимеры ответом с ошибками лежат в папке "ErrorTemplates"

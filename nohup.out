@@ -1,0 +1,24 @@
+ * Serving Flask app "mockForMSKLongenvity" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://192.168.111.74:8080/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 246-536-849
+85.234.36.210 - - [02/Aug/2019 16:21:47] "GET /api/mobile/v1/notifications HTTP/1.1" 200 -
+85.234.36.210 - - [02/Aug/2019 16:21:51] "GET /api/mobile/v1/notifications HTTP/1.1" 200 -
+85.234.36.210 - - [02/Aug/2019 16:21:52] "GET /api/mobile/v1/notifications HTTP/1.1" 200 -
+85.234.36.210 - - [02/Aug/2019 16:21:53] "GET /api/mobile/v1/notifications HTTP/1.1" 200 -
+85.234.36.210 - - [02/Aug/2019 16:21:54] "GET /api/mobile/v1/notifications HTTP/1.1" 200 -
+85.234.36.210 - - [02/Aug/2019 16:24:31] "GET /api/mobile/v1/notifications HTTP/1.1" 200 -
+ * Serving Flask app "mockForMSKLongenvity" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://192.168.111.74:8080/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 246-536-849
